@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset=UTF-8" />
+	<title>Stow Lake</title>
+	<!–[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]–>
+	<meta name="description" content="Stow Lake boating in Golden Gate Park, San Francisco">
+	<meta name="keywords" content="Stow Lake, San Francisco with kids, paddle boat, Golden Gate Park">
+	<meta name="author" content="Barbara Evans">
+	<link rel="stylesheet" href="main.css">
+</head>
+<div id="allcontent">
+<header id="header">
+	<hgroup>
+        <h1 style="display:none">Adventures Over the Bridge</h1>
+        <h2 style="display:none">Kid-friendly Day Trips in San Francisco</h2>
+    </hgroup>
+</header>
+<nav id="menu">
+	<ul>
+			<li><a href="index.shtml">Home</a></li>
+			<li class="currentpage"><a href="stow.shtml">Stow Lake</a></li>
+			<li><a href="botanical.shtml">Botanical Gardens</a></li>
+			<li><a href="beach.shtml">China Beach</a></li>
+			<li><a href="visit.shtml">Visit</a></li>
+			<li><a href="join.shtml">Join/Poll</a></li>
+			<li><a href="poll.shtml">Poll Results</a></li>
+	</ul>
+</nav>
+<section>
+<h3>Stow Lake in Golden Gate Park</h3>
+	<aside id="right">
+		<h3> Turtles, turtles and  <span class="big">more turtles! </span></h3>
+		<p>If you paddle around Stow Lake, you can't help but notice the plethora of turtles.  We learned this is a popular place for area turtle owners to set their pets free.
+		</p>
+	</aside>
+    
+	<article id="left">
+    	<p><span class="introtext">Stow Lake is a great place to go for a boat or bike ride </span>and take a short hike. Rent pedal or row boats by the hour as well as bikes (cruiser, mountain, or carriage.)  Pedal boats can fit four and are especially fun for families.  <img src="images/lake.jpg" alt="Stow Lake" /> We brought a picnic lunch which the kids shared with all the turtles and mallard ducks.
+    	</p>
+		<p>After your boat ride, be sure to hike around the lake and cross the stone bridge leading to Strawberry Island in the center of the lake.  If you hike to the top of the Rainbow Falls waterfall, you will be rewarded with a spectacular view of western San Francisco.
+        </p>
+		<p>After visiting Stow Lake, if time permits visit the nearby Japanese Tea Garden, Botanical Gardens, California Academy of Science or the de Young Museum.
+        </p>				
+		
+    </article>
+</section>
+
+<footer id="footer">
+	<p>
+			Privacy Policy   |   User Agreement   |   FAQs   |   About Us   |   Site Map		
+	</p>
+	<p>
+			Copyright &copy;2010  All Rights Reserved  
+		
+	</p>
+</footer>
+</div> <!-- end #allcontent   -->
+</html>
